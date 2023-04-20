@@ -4,7 +4,6 @@ author: Decentralized Climate Foundation
 date: 2022-02-04
 category: README
 layout: post
-permalink: /readme
 ---
 
 ## Introduction
