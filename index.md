@@ -6,8 +6,6 @@ layout: home
 ---
 
 
-# DCF Documents Directory
-
 ## Transparency
 
 ### General Assemblies
@@ -28,26 +26,6 @@ layout: home
 | Document | Last Update |
 | -------- | -------- |
 | [Responsabilities](https://hackmd.io/gMphw3QiRvSI2WK3Ml2GkA) | 2023-01-17 |
-
-## WorkFlow
-
-### Monthly Tasks
-
-| Month | Last Update | 
-| -------- | -------- |
-| [January](https://hackmd.io/oycdQimKSnKtehXKRkz3kA) | 2023-01 | 
-| [February](https://hackmd.io/GguBDBZkQZiJXEEXkBBS3w) | 2023-02 | 
-
-> Might include weekly/sprint changes is its on the current week
-
-### Meeting/Calls
-
-| Month | Last Update | 
-| -------- | -------- |
-| January| 2023-01 | 
-| [February](https://hackmd.io/0HntZV7ySSeElUTf49IBbA?view) | 2023-02 | 
-
-> Follows: [DCIP-02 Proposal](https://hackmd.io/0HntZV7ySSeElUTf49IBbA?view)
 
 ## Governance 
 
