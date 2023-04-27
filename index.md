@@ -12,20 +12,22 @@ layout: home
 
 | Document | Last Update |
 | -------- | -------- |
-| [General Assembly No. 1](https://hackmd.io/PJjDdwusTCu2rkKOGtnqcg?view)| 2022-12-31 |
-| General Assembly No. 2 (Unfinished)| 2023-01-02 |
+| [General Assembly No. 1](/general_assemblies/2022-12-31-GeneralAssembly1.html)| 2022-12-31 |
+| [General Assembly No. 2 (Unfinished)](/general_assemblies/2023-01-02-GeneralAssembly2.html)| 2023-01-02 |
 
 ### Monthly Reports
 
 | Month | Last Update | 
 | -------- | -------- |
-| [January](https://hackmd.io/bcSkwAWZQCihO-1G7eQGZg) | 2023-02-05 | 
+| [January](/monthly_reports/2023-02-05-MDCJ.html) | 2023-02-05 | 
+| [February ES](/monthly_reports/2023-03-05-MDCFES.html) | 2023-02-05 |
+| [February EN](/monthly_reports/2023-02-05-MDCFEN.html) | 2023-02-05 |
 
 ### Board of Directors
 
 | Document | Last Update |
 | -------- | -------- |
-| [Responsabilities](https://hackmd.io/gMphw3QiRvSI2WK3Ml2GkA) | 2023-01-17 |
+| [Responsabilities](/board_of_directors/2023-01-17-Responsabilities.html) | 2023-01-17 |
 
 ## Governance 
 
@@ -33,21 +35,21 @@ layout: home
 
 | Document | Link | Network |
 | -------- | -------- | -------- | 
-| [Phase0](https://hackmd.io/A9LNZFTlQsC32gqDw1C7EQ)  | [DecentralizedClimate](https://client.aragon.org/#/decentralizedclimate) | Goerli
-| [Phase1(unfinished)](https://hackmd.io/X0e7aeiaQKa2fPJS_mHguQ)  | [decentralizedclimate.eth](https://demo.snapshot.org/#/decentralizedclimate.eth) | Ethereum Main / Goerli
+| [Phase0](/dao_development/2023-01-25-Phase0.html)  | [DecentralizedClimate](https://client.aragon.org/#/decentralizedclimate) | Goerli
+| [Phase1(unfinished)](/dao_development/2023-01-25-Phase1.html)  | [decentralizedclimate.eth](https://demo.snapshot.org/#/decentralizedclimate.eth) | Ethereum Main / Snapshot
 
 ### Decentralized Climate Improvement Proposals
 
 | Number | Title | Author |
 | -------- | -------- | -------- | 
-| [DCIP-1(unfinished)](https://hackmd.io/YP4DnMt5R1y-Z3h9zjjcMQ?view)  | DCIP Purpose and Guidelines | Omar Octavio Huerta Valdez
-| [DCIP-2](https://hackmd.io/c-0PvrXFQWezOJpzNtRA1A?view)  | Meetings | David E. Perez Negron R.
-| [DCIP-3(unfinished)](https://hackmd.io/MY70DIqET36kzZ2YHFupbg?view)  | Tasks | David E. Perez Negron R.
+| [ 1 ](https://dev.dcips.decentralizedclimate.org/dcips/dcip-1)  | DCIP Purpose and Guidelines | Omar Octavio Huerta Valdez [@P1R](https://github.com/P1R)
+| [ 2 ](https://dev.dcips.decentralizedclimate.org/dcips/dcip-2)  | Meetings | David E. Perez Negron R. [@bleecker](https://github.com/bleeckersteker) 
+| [ 3 ](https://dev.dcips.decentralizedclimate.org/dcips/dcip-3)  | Tasks | David E. Perez Negron R. [@P1R](https://github.com/P1R)
 
 ## Research
 
 | Document | Last Update |
 | -------- | -------- |
-| [MaxCurrent MVP](https://hackmd.io/olq6nsUNRR2F3VG1NkWAZA) | 2023-01-07 |
+| [MaxCurrent MVP](/research/2023-01-07-MaxCurrentMVP.html) | 2023-01-07 |
 
 
