@@ -50,6 +50,6 @@ layout: home
 
 | Document | Last Update |
 | -------- | -------- |
-| [MaxCurrent MVP](/research/2023-01-07-MaxCurrentMVP.html) | 2023-01-07 |
+| [MaxCurrent MVP](https://hackmd.io/olq6nsUNRR2F3VG1NkWAZA) | 2023-01-07 |
 
 
