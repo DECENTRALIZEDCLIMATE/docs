@@ -21,7 +21,7 @@ layout: home
 | -------- | -------- |
 | [January](https://hackmd.io/bcSkwAWZQCihO-1G7eQGZg) | 2023-02-05 | 
 
-### Directory
+### Board of Directors
 
 | Document | Last Update |
 | -------- | -------- |

@@ -42,6 +42,9 @@ markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
 include:
   - socialserv
+  - responsa
+  - assemblies
+  - governance
 
 # Permalinks
 permalink:        /:categories/:year-:month-:day-:title:output_ext
