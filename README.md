@@ -14,8 +14,9 @@ layout: post
 ## Introduction
 
 The purpose of the following document is to decentralize a static website using various free tools and services.
+> This is how the website was created.
 
-# Previous knowledge.
+## Previous knowledge.
 
 * Knowledge of Git and GitHub.
 * Having previously read the Jekyll documentation.
@@ -23,6 +24,7 @@ The purpose of the following document is to decentralize a static website using 
 * Access to [Fleek](https://fleek.co/) account or creating one.
 * You must have installed [Rubygems](https://rubygems.org/pages/download) (check your Gems version using gem -v),[GCC, and Make](https://www.delftstack.com/es/howto/linux/how-to-install-gcc-compiler-on-ubuntu/) (check versions using gcc -v, g++ -v, and make -v), as well as [Ruby 2.5.0](https://www.ruby-lang.org/es/documentation/installation/) (check your Ruby version using ruby -v).
 
+## Installation
 
 ## Cheatsheet
 
@@ -78,3 +80,7 @@ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 A copy of the license is included in the section entitled "GNU
 Free Documentation License". 
 ```
+
+### Contact:
+
+[Decentralized Climate Foundation](https://t.me/decentralizedclimate)
