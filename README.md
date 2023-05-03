@@ -6,21 +6,23 @@ category: README
 layout: post
 ---
 
+
+[![GNUv1.3 License](https://img.shields.io/badge/License-GNU%20v1.3-yellow.svg)](https://opensource.org/licenses/)
+
+[![GitHub contributors](https://img.shields.io/github/contributors/decentralizedclimate/docs.svg?style=flat)]() 
+
 ## Introduction
 
-The purpose of the following workshop is to decentralize a static website using various free tools and services.
-
-The process should be documented in a markdown report (cheatsheet).
-
-If the foundation has a manual and/or cheatsheet related to the topic, contribute to the foundation's manual, otherwise add the documentation to the docs repository.
-
-Add issues to the official repository if you have found or proposed improvements.
+The purpose of the following document is to decentralize a static website using various free tools and services.
 
 # Previous knowledge.
 
-* Having completed the Git and GitFlow workshop.
+* Knowledge of Git and GitHub.
+* Having previously read the Jekyll documentation.
 * Basic concepts about IPFS.
-* Access to fleek.co account or creating one.
+* Access to [Fleek](https://fleek.co/) account or creating one.
+* You must have installed [Rubygems](https://rubygems.org/pages/download) (check your Gems version using gem -v),[GCC, and Make](https://www.delftstack.com/es/howto/linux/how-to-install-gcc-compiler-on-ubuntu/) (check versions using gcc -v, g++ -v, and make -v), as well as [Ruby 2.5.0](https://www.ruby-lang.org/es/documentation/installation/) (check your Ruby version using ruby -v).
+
 
 ## Cheatsheet
 
@@ -36,8 +38,7 @@ After we have the repository, the template for the webpage is downloaded and imp
 
 [**Template Dowload**](https://github.com/sighingnow/jekyll-gitbook)
 
-We can use the terminal to download the template faster, and thus have the
-complete directory without errors.
+We can use the terminal to download the template faster, and thus have the complete directory without errors.
 
 
 ```linux
