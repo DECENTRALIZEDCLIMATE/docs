@@ -6,17 +6,15 @@ category: README
 layout: post
 ---
 
+:space_invader:
+[![GNUv1.3 License](https://img.shields.io/badge/License-GNU%20v1.3-yellow.svg)](https://opensource.org/licenses/) [![GitHub contributors](https://img.shields.io/github/contributors/decentralizedclimate/docs.svg?style=flat)]() :space_invader:
 
-[![GNUv1.3 License](https://img.shields.io/badge/License-GNU%20v1.3-yellow.svg)](https://opensource.org/licenses/)
-
-[![GitHub contributors](https://img.shields.io/github/contributors/decentralizedclimate/docs.svg?style=flat)]() 
-
-## Introduction
+## :computer:  Introduction :computer:
 
 The purpose of the following document is to decentralize a static website using various free tools and services.
 > This is how the website was created.
 
-## Previous knowledge.
+## Previous knowledge. :card_file_box:
 
 * Knowledge of Git and GitHub.
 * Having previously read the Jekyll documentation.
@@ -24,9 +22,9 @@ The purpose of the following document is to decentralize a static website using 
 * Access to [Fleek](https://fleek.co/) account or creating one.
 * You must have installed [Rubygems](https://rubygems.org/pages/download) (check your Gems version using gem -v),[GCC, and Make](https://www.delftstack.com/es/howto/linux/how-to-install-gcc-compiler-on-ubuntu/) (check versions using gcc -v, g++ -v, and make -v), as well as [Ruby 2.5.0](https://www.ruby-lang.org/es/documentation/installation/) (check your Ruby version using ruby -v).
 
-## Installation
+## :scroll:  Installation :scroll:
 
-## Cheatsheet
+### :notebook:  Cheatsheet :notebook:
 
 The [**docs**](https://githubcom/DECENTRALIZEDCLIMATE/docs) project from the Decentralized Foundation repository is cloned to the local machine.
 
@@ -70,7 +68,7 @@ We can go to the URL of our server and we will be able to see that the changes h
 
 
 
-### License.
+### License. :mechanical_arm:
 ```
 Copyright (C) DECENTRALIZED CLIMATE FOUNDATION A.C.
 Permission is granted to copy, distribute and/or modify this document
@@ -81,6 +79,14 @@ A copy of the license is included in the section entitled "GNU
 Free Documentation License". 
 ```
 
-### Contact:
+### Contact: :calling:
 
 [Decentralized Climate Foundation](https://t.me/decentralizedclimate)
+
+
+### Author:
+> Work developed in collaboration with the [Decentralized Climate Foundation](https://decentralizedclimate.org).
+
+  Autor:
+- [Gustavo Bermudez](mailto:nizaries44@gmail.com)
+
