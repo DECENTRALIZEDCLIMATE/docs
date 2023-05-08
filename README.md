@@ -14,7 +14,7 @@ layout: post
 The purpose of the following document is to decentralize a static website using various free tools and services.
 > This is how the website was created.
 
-## Previous knowledge. :card_file_box:
+### System requirements. :card_file_box:
 
 * Knowledge of Git and GitHub.
 * Having previously read the Jekyll documentation.
@@ -22,21 +22,15 @@ The purpose of the following document is to decentralize a static website using 
 * Access to [Fleek](https://fleek.co/) account or creating one.
 * You must have installed [Rubygems](https://rubygems.org/pages/download) (check your Gems version using gem -v),[GCC, and Make](https://www.delftstack.com/es/howto/linux/how-to-install-gcc-compiler-on-ubuntu/) (check versions using gcc -v, g++ -v, and make -v), as well as [Ruby 2.5.0](https://www.ruby-lang.org/es/documentation/installation/) (check your Ruby version using ruby -v).
 
-## :scroll:  Installation :scroll:
+### :scroll:  Installation :scroll:
 
 ### :notebook:  Cheatsheet :notebook:
 
-The [**docs**](https://githubcom/DECENTRALIZEDCLIMATE/docs) project from the Decentralized Foundation repository is cloned to the local machine.
+The [**docs**](https://github.com/DECENTRALIZEDCLIMATE/docs) project from the Decentralized Foundation repository is cloned to the local machine.
 
 ```linux=
 git clone https://github.com/DECENTRALIZEDCLIMATE/docs.git
 ```
-
-The respective dependencies such as ruby and jekyll were installed.
-
-After we have the repository, the template for the webpage is downloaded and implemented within the downloaded repository.
-
-[**Template Dowload**](https://github.com/sighingnow/jekyll-gitbook)
 
 We can use the terminal to download the template faster, and thus have the complete directory without errors.
 

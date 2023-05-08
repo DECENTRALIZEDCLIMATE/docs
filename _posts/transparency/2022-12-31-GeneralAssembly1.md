@@ -69,7 +69,7 @@ Siendo las 19:00 horas del día 31 de Diciembre del 2022 y habiéndose cumplimen
 
 ## **Firmas de los Presentes**
 
-![](https://imgur.com/9ghNAPk.png)
+![]()
 ______________________
 Luis Alberto Saavedra Nieto.
 
