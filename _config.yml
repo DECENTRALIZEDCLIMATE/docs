@@ -43,6 +43,7 @@ markdown_ext:     markdown,mkdown,mkdn,mkd,md
 include:
   - socialserv
 
+
 # Permalinks
 permalink:        /:categories/:year-:month-:day-:title:output_ext
 
