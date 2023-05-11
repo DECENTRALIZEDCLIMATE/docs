@@ -1,6 +1,8 @@
             "sharing": {
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"],
+                "all": ["facebook","discord", "google", "twitter", "weibo", "instapaper", "github", "telegram"],
                 "facebook": false,
+                "discord": true,
+                "discord_link": "https://discord.com/channels/701556293575639040/701556293575639043",
                 "google": false,
                 "github": true,
                 "github_link": "https://github.com/DECENTRALIZEDCLIMATE",
