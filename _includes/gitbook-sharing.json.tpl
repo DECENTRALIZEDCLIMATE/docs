@@ -8,7 +8,7 @@
                 "telegram_link": "https://t.me/decentralizedclimate",
                 "instapaper": false,
                 "twitter": true,
-                "twitter_link": "https://mobile.twitter.com/DC_Foundation",
+                "twitter_link": "https://twitter.com/dc_foundation",
                 "vk": false,
                 "weibo": false
             },
