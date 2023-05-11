@@ -46,6 +46,7 @@ include:
   - assemblies
   - governance
 
+
 # Permalinks
 permalink:        /:categories/:year-:month-:day-:title:output_ext
 
