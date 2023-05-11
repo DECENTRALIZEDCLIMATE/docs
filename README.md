@@ -22,44 +22,37 @@ The purpose of the following document is to decentralize a static website using 
 * Access to [Fleek](https://fleek.co/) account or creating one.
 * You must have installed [Rubygems](https://rubygems.org/pages/download) (check your Gems version using gem -v),[GCC, and Make](https://www.delftstack.com/es/howto/linux/how-to-install-gcc-compiler-on-ubuntu/) (check versions using gcc -v, g++ -v, and make -v), as well as [Ruby 2.5.0](https://www.ruby-lang.org/es/documentation/installation/) (check your Ruby version using ruby -v).
 
-### :scroll:  Installation :scroll:
+## :scroll: How to contribute to DCF.  :scroll:
 
-### :notebook:  Cheatsheet :notebook:
+### :notebook: "Verify that there are no issues in DCF."  :notebook:
 
-The [**docs**](https://github.com/DECENTRALIZEDCLIMATE/docs) project from the Decentralized Foundation repository is cloned to the local machine.
+"Verify that there are no issues in DCF that address the contribution or problem you wish to collaborate on (as it may have already been started by another user)."
 
-```linux=
-git clone https://github.com/DECENTRALIZEDCLIMATE/docs.git
-```
-
-We can use the terminal to download the template faster, and thus have the complete directory without errors.
+You can check the issues at the following [**link:**](https://github.com/orgs/DECENTRALIZEDCLIMATE/projects/1)
 
 
-```linux
-git clone https://github.com/sighingnow/jekyll-gitbook.git
-```
+#### "How to create a proposal or an issue:"
 
-The image shows the replacement of the template files (jekyll-gitboo) in our "docs" file.
+If you have previously verified that the proposal or issue does not exist, you can write it following the following format.
 
-![](/assets/Readme/13.32.37.png)
+Para crear un issue en Github, sigue los siguientes pasos:
 
-Next, we need to add the .md files from our "docs" folder to the posts on the page. To do this, we must edit each file with its respective header, as shown below, and give it a name that will make it easier for us to keep track of [date-name-language].
+To create an issue in Github, follow these steps:
 
-Do not forget to respect the format of the template, as well as using the guide posts that come with the same template as examples, in case you have doubts about how to edit the document.
+1. Access the repository page where you want to create the issue.
+2. Click on the "Issues" tab at the top of the page.
+3. Click on the green "New issue" button at the top right of the page.
+4. Write a brief and descriptive title for the issue in the "Title" field.
+5. Describe the problem in detail in the "Write" field.
+6. If applicable, use the text formatting options to add formatting, images, or links.
+7. Label the issue with appropriate tags to make it easier to find and organize. Tags can be customized by the repository or used from a list of common tags.
+8. Assign the issue to a responsible team member or leave it unassigned if not necessary.
+9. If applicable, set a due date for the issue.
+10. Click the green "Submit new issue" button to publish the issue.
 
-![](/assets/Readme/14.11.21.png)
-![](/assets/Readme/14.18.39.png)
+It is important to provide all relevant information so that others can understand the problem and help resolve it. Additionally, it is important to label the issue correctly to make it easier to find and organize. If possible, a proposed solution or suggestions to help solve the problem can also be provided.
 
-We must properly edit the title (this will be the main title, the others will be subtitles, if using .md, ## should be used for editing the remaining text), the creation date, author, category, and layout.
-
-When we have the files edited with their respective header, we must move the files to "posts" so that when we launch the page, we can visualize the desired change.
-
-![](/assets/Readme/14.34.15.png)
-
-We can go to the URL of our server and we will be able to see that the changes have been made.
-
-![](/assets/Readme/13.32.37.png)
-
+### 
 
 
 ### License. :mechanical_arm:
