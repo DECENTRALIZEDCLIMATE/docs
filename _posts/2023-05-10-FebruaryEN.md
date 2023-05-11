@@ -80,7 +80,7 @@ As a noteworthy mention of these regular tasks, it is worth noting the training 
 
 The Finance section can be found in Annex 5, which details the income, expenses, and expenditures made by the foundation throughout the month.
 
-![](https://i.imgur.com/7eGvL0J.png)
+![](assets/februaryreporten/Img6.png)
 
 ## :clipboard:Current Projects.
 
