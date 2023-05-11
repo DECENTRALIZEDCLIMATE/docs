@@ -33,11 +33,24 @@ You can check the issues at the following [**link:**](https://github.com/orgs/DE
 
 #### "How to create a proposal or an issue:"
 
-If you have previously verified that the proposal or issue does not exist, you can write it following the following format.
 
-Para crear un issue en Github, sigue los siguientes pasos:
+If you have previously verified that the proposal or issue does not exist, you can write it following the following format:
 
-To create an issue in Github, follow these steps:
+After accessing the issues link, we must check if there is no related proposal or issue on the list. If we realize that there is none, we can add one by clicking on the **+** sign and assigning a brief title to it.
+
+
+
+![](/assets/Readme/p1.png)
+**Img1:** At the bottom of the issues, you can add a new one (Remember to check that there is no related open issue and its status).
+
+
+![](/assets/Readme/p2.png)
+
+
+---
+
+
+**To create an issue in Github, follow these steps:**
 
 1. Access the repository page where you want to create the issue.
 2. Click on the "Issues" tab at the top of the page.
@@ -52,7 +65,9 @@ To create an issue in Github, follow these steps:
 
 It is important to provide all relevant information so that others can understand the problem and help resolve it. Additionally, it is important to label the issue correctly to make it easier to find and organize. If possible, a proposed solution or suggestions to help solve the problem can also be provided.
 
-### 
+---
+
+###  
 
 
 ### License. :mechanical_arm:
