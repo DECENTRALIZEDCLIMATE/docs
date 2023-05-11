@@ -12,39 +12,25 @@ layout: home
 
 | Document | Last Update |
 | -------- | -------- |
-<<<<<<< HEAD
-| [General Assembly No. 1](/general_assemblies/2022-12-31-GeneralAssembly1.html)| 2022-12-31 |
-| [General Assembly No. 2 (Unfinished)](/general_assemblies/2023-01-02-GeneralAssembly2.html)| 2023-01-02 |
-=======
 | [General Assembly No. 1]({% post_url 2022-12-31-generalassemblyno1  %})| 2022-12-31 |
 | General Assembly No. 2 (Unfinished)| 2023-01-02 |
->>>>>>> devel
 
 ### Monthly Reports
 
 | Month | Last Update | 
 | -------- | -------- |
-<<<<<<< HEAD
-| [January](/monthly_reports/2023-02-05-MDCJ.html) | 2023-02-05 | 
-| [February ES](/monthly_reports/2023-03-05-MDCFES.html) | 2023-02-05 |
-| [February EN](/monthly_reports/2023-02-05-MDCFEN.html) | 2023-02-05 |
-=======
 | [January]({% post_url 2023-05-10-January %}) | 2023-01-10 | 
 | [February ES]({% post_url 2023-05-10-FebruaryES %}) | 2023-02-10 |
 | [February EN]({% post_url 2023-05-10-FebruaryEN %}) | 2023-02-10 |
 | [March ES]({% post_url 2023-05-10-MarchEs  %}) | 2023-03-05 |
 | [March EN]({% post_url 2023-05-10-MarchEN  %}) | 2023-03-05 |
->>>>>>> devel
 
 ### Board of Directors
 
 | Document | Last Update |
 | -------- | -------- |
-<<<<<<< HEAD
 | [Responsabilities](/board_of_directors/2023-01-17-Responsabilities.html) | 2023-01-17 |
-=======
-| [Responsabilities](https://hackmd.io/gMphw3QiRvSI2WK3Ml2GkA) | 2023-01-17 |
->>>>>>> devel
+
 
 ## Governance 
 
