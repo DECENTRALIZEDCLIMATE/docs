@@ -67,7 +67,23 @@ It is important to provide all relevant information so that others can understan
 
 ---
 
-###  
+### How to contribute after creating my issue
+
+You must clone the [docs](https://github.com/DECENTRALIZEDCLIMATE/docs)  repository to your computer (having the necessary tools and packages to run Jekyll on your computer).
+
+
+>If you don't have what is necessary to run the repository, you can install what is pertinent for [Jekyll](https://jekyllrb.com/docs/) by clicking on the link.
+
+
+When you have the repository perfectly installed and configured, you create, improve or solve your issues and send screenshots in the same issue (as responses to it) where we can see the changes and that it works.
+>If you need to access the [Issues](https://github.com/orgs/DECENTRALIZEDCLIMATE/projects/1) section of DCF again, you can click on the link.
+
+
+Send a Pull Request to the Develop branch of DCF docs, filling in the requirements, such as a brief title and comments on what was done. If everything is approved, your issue will be marked as completed and the changes will be added to the project.
+
+###Suggestions:
+
+- As DCF is a decentralized project, remember that any file, image, or document that you want to contribute needs to have a reasonable size to avoid conflicts when processing it. There are ways to compress it.
 
 
 ### License. :mechanical_arm:
